@@ -2,9 +2,37 @@
 By :Mohit KUMAR LNCTS
 *******************************************************************
 
+# AI Voice Assistant 🔊🤖
+
+An AI-powered voice assistant built using Python that performs a wide range of daily tasks through voice commands. Designed for convenience and productivity, this assistant can greet users, play music, tell the time and date, search Google or Wikipedia, manage to-do lists, send WhatsApp messages or emails, and even interact with ChatGPT using the OpenAI API.
+
+## 🎯 Features
+- Voice-activated interaction
+- Personalized greeting on startup
+- Play music on command
+- Report current time and date
+- Search topics on Google or Wikipedia
+- Add tasks to a to-do list
+- Send WhatsApp messages
+- Send emails through voice commands
+- ChatGPT integration for AI-powered answers
 
 
-Step : 
+
+
+## 🛠️ Technologies Used
+- **Python**
+- **SpeechRecognition**, **pyttsx3**, **pyaudio**
+- **Google Search API**, **Wikipedia API**
+- **Twilio** (for WhatsApp)
+- **SMTP** (for sending emails)
+- **OpenAI API** (for ChatGPT integration
+
+
+
+
+
+## 🚀 Getting Started
 
 1.	Unzip .rar file. Open the folder in vs code.
 
