@@ -1,0 +1,2 @@
+gmail_password = "xxxxx"
+openai_key = "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"
