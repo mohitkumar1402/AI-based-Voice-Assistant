@@ -1,12 +1,12 @@
 *******************************************************************
-By :Mohit KUMAR LNCTS
+By :Mohit KUMAR LNCTS 
 *******************************************************************
 
 # AI Voice Assistant 🔊🤖
 
 An AI-powered voice assistant built using Python that performs a wide range of daily tasks through voice commands. Designed for convenience and productivity, this assistant can greet users, play music, tell the time and date, search Google or Wikipedia, manage to-do lists, send WhatsApp messages or emails, and even interact with ChatGPT using the OpenAI API.
 
-## 🎯 Features
+## 🎯 Features :-
 - Voice-activated interaction
 - Personalized greeting on startup
 - Play music on command
